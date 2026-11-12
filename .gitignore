@@ -1,0 +1,16 @@
+# Secrets
+.env
+*.env
+secrets/
+api-keys.txt
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Large media (do not upload raw video files)
+*.mp4
+*.mov
