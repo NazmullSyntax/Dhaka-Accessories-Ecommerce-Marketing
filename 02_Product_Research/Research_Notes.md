@@ -44,3 +44,30 @@ DA-002	1.84
 DA-003	2.08
 DA-004	1.63
 DA-005	1.62
+
+# Product Research Notes (Simulated)
+
+**Disclaimer:** This research uses public sources and simulated cost figures. It does not represent any real company's data.
+
+## Google Trends Check (Bangladesh, past 12 months)
+- jewelry: steady, slight rise before Eid
+- hair accessories: stable, spikes in winter
+- handbag: moderate, spikes near 11.11
+- earrings: high and steady
+
+## Daraz Competitor Price Range (BDT)
+- Kundan jewelry set: 450–1,200
+- Hair clip set (5 pcs): 150–350
+- Tote bag (canvas): 550–1,400
+- Pearl earrings: 250–700
+- Oxidized bangle set: 400–900
+
+## Product Selection Logic
+1. Demand exists on Google Trends and Daraz.
+2. Price falls in the 250–750 BDT range — the sweet spot for impulse buying on Facebook.
+3. Lightweight and unbreakable — safe for courier delivery.
+4. Margin above 48% for all products, so ads can be profitable.
+5. 11.11 and Eid spikes align with these categories.
+
+## What I will do next (Day 3)
+Build customer personas for the two most attractive products: DA-001 (Kundan choker set) and DA-004 (Canvas tote bag).
