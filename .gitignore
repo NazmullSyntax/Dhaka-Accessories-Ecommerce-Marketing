@@ -14,3 +14,4 @@ Thumbs.db
 # Large media (do not upload raw video files)
 *.mp4
 *.mov
+.venv/
