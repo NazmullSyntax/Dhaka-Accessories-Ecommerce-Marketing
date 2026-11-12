@@ -27,3 +27,20 @@ Margin % হিসাবের formula:
 text
 Margin % = (Selling Price − Cost − Delivery) ÷ Selling Price × 100
 উদাহরণ (DA-001): (650 − 180 − 70) ÷ 650 × 100 = 61.5%
+
+Step 5: Break-even ROAS
+Break-even ROAS মানে — এই ROAS-এ তোমার লাভ-লস শূন্য। এর নিচে গেলে লস।
+
+Formula:
+
+text
+Break-even ROAS = 1 ÷ (Gross Margin ÷ Selling Price)
+উদাহরণ DA-001: Gross Margin 400 ÷ Selling Price 650 = 0.615 → 1 ÷ 0.615 = 1.63
+
+মানে DA-001-এ ROAS ১.৬৩-এর বেশি হলেই লাভ। ৩.০ হলে খুব ভালো।
+SKU	Break-even ROAS
+DA-001	1.63
+DA-002	1.84
+DA-003	2.08
+DA-004	1.63
+DA-005	1.62
