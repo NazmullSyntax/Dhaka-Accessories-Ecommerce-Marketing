@@ -40,3 +40,10 @@ Installed in `<head>` of every page. Automatically fires PageView on every load.
   value: 650.00,
   currency: 'BDT'
 });
+fbq('track', 'AddToCart', {
+  content_ids: ['DA-001'],
+  content_name: 'Kundan Choker Set',
+  content_type: 'product',
+  value: 650.00,
+  currency: 'BDT'
+});
