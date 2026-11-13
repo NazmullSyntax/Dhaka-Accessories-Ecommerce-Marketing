@@ -54,3 +54,12 @@ fbq('track', 'InitiateCheckout', {
   value: 650.00,
   currency: 'BDT'
 });
+
+fbq('track', 'Purchase', {
+  content_ids: ['DA-001'],
+  content_name: 'Kundan Choker Set',
+  content_type: 'product',
+  value: 650.00,
+  currency: 'BDT',
+  num_items: 1
+});
