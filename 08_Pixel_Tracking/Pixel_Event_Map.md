@@ -47,3 +47,10 @@ fbq('track', 'AddToCart', {
   value: 650.00,
   currency: 'BDT'
 });
+
+fbq('track', 'InitiateCheckout', {
+  content_ids: ['DA-001'],
+  num_items: 1,
+  value: 650.00,
+  currency: 'BDT'
+});
