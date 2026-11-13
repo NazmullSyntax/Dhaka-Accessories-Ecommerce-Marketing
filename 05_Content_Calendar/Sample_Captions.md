@@ -24,3 +24,35 @@ Canvas tote bag — student-friendly, durable, stylish।
 মাত্র ৭৫০ টাকা।
 
 Inbox করুন — সীমিত স্টক!
+## Caption 3 — Eid Festival Offer
+
+🌙 ঈদ কালেকশন এসে গেছে!
+
+আমাদের নতুন Eid collection-এ পাচ্ছেন —
+🔸 Kundan jewelry set
+🔸 Oxidized bangle set
+🔸 Pearl earrings
+
+সব প্রোডাক্টে Cash on Delivery আর ৭ দিনের return।
+দাম শুরু ৩৫০ টাকা থেকে।
+
+অর্ডার করতে Inbox করুন — Eid-এর আগেই পৌঁছে যাবে।
+## Caption 4 — Engagement Post
+
+আপনার পছন্দ কোনটা? 💭
+
+১️⃣ Kundan choker set
+২️⃣ Oxidized bangle set
+৩️⃣ Pearl earrings
+
+Comment-এ নাম্বার লিখুন — সবচেয়ে বেশি ভোট পাওয়া ডিজাইনে কাল special discount!
+## Caption 5 — Social Proof Post
+
+"ভাবিনি এত সুন্দর হবে!" — নুসরাত আপু, মিরপুর
+
+আমাদের Kundan set নিয়ে customer-দের reaction এমনই।
+⭐ ৪.৮/৫ গড় রেটিং
+⭐ ২০০+ happy customers (simulated)
+⭐ ৭ দিনের return policy
+
+আপনিও চেষ্টা করে দেখুন — Inbox করুন আজই।
