@@ -63,3 +63,36 @@ fbq('track', 'Purchase', {
   currency: 'BDT',
   num_items: 1
 });
+
+
+### করণীয়:
+1. `08_Pixel_Tracking` folder-এ **New File** → `Pixel_Verification_Plan.md`
+
+```markdown
+# Pixel Verification Plan (Simulated)
+
+## Tools
+- **Meta Pixel Helper** (Chrome extension) — free, shows Pixel events live on page
+- **Events Manager → Test Events** — Meta-র internal verification tool 
+
+## Verification Steps
+| Step | Action | Expected Result |
+|---|---|---|
+| 1 | Install Pixel Helper extension | Icon appears in Chrome toolbar |
+| 2 | Open website home page | Pixel Helper shows PageView |
+| 3 | Go to product page | Pixel Helper shows ViewContent with content_ids |
+| 4 | Click Add to Cart | Pixel Helper shows AddToCart |
+| 5 | Go to checkout | Pixel Helper shows InitiateCheckout |
+| 6 | Complete purchase | Pixel Helper shows Purchase with value and currency |
+| 7 | Check Events Manager → Test Events | All events appear with timestamps |
+
+## Common Errors to Check
+| Error | Cause | Fix |
+|---|---|---|
+| Event shows as "custom" | Wrong case (viewcontent vs ViewContent) | Fix case exactly  |
+| Purchase has no value | value parameter missing | Add value and currency [citation:14] |
+| PageView fires twice | Base code duplicated | Check `<head>` for duplicate code |
+| No events at all | Pixel ID wrong or code in wrong place | Verify Pixel ID, place in `<head>`  |
+
+## Note
+We have no live website yet. This plan is ready for when the website exists.
