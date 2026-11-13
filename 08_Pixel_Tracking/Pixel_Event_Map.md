@@ -32,3 +32,11 @@ Installed in `<head>` of every page. Automatically fires PageView on every load.
        src="https://www.facebook.com/tr?id=YOUR_PIXEL_ID&ev=PageView&noscript=1"/>
 </noscript>
 <!-- End Meta Pixel Code -->
+
+ fbq('track', 'ViewContent', {
+  content_ids: ['DA-001'],
+  content_name: 'Kundan Choker Set',
+  content_type: 'product',
+  value: 650.00,
+  currency: 'BDT'
+});
