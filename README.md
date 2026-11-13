@@ -1,33 +1,60 @@
-# Dhaka Accessories — E-commerce Digital Marketing Portfolio Project
+# Dhaka Accessories: A 30-Day E-commerce Digital Marketing Portfolio Project (Bangladesh)
 
-## Overview
-A 30-day simulated e-commerce marketing project for a hypothetical B2C fashion accessories brand based in Dhaka, Bangladesh. This portfolio demonstrates the practical skills required for an E-commerce Digital Marketing Executive role.
+A complete 30-day e-commerce digital marketing project for a **simulated** B2C fashion accessories brand based in Dhaka, Bangladesh.
 
-## Disclaimer
-All data in this repository is **simulated** for learning and portfolio purposes. It does not represent real business performance, real customers, or any real company's data.
+**⚠️ Disclaimer:** All data in this repository is **simulated** for learning and portfolio purposes. This project does not represent real business performance, real customers, or any real company's data. No real ad spend occurred. This is a portfolio project for a job application — not a commercial work.
 
-## Project Structure
-- 01_Business_Strategy
-- 02_Product_Research
-- 03_Customer_Personas
-- 04_Competitor_Analysis
-- 05_Content_Calendar
-- 06_Canva_Creatives
-- 07_Meta_Ads_Campaigns
-- 08_Pixel_Tracking
-- 09_Google_Analytics
-- 10_Dataset
-- 11_Sheets_Analysis
-- 12_Looker_Dashboard
-- 13_Seasonal_Campaigns
-- 14_Performance_Reports
-- 15_SEO_Google_Ads
-- 16_Influencer_TikTok
-- 17_Portfolio_Presentation
-- 18_Interview_Prep
+---
 
-## Tools
-Git, VS Code, GitHub, Google Sheets, Google Analytics 4, Looker Studio, Canva, Meta Ads Manager, Meta Pixel.
+## Project Overview
 
-## Status
-Work in progress — Day 1 complete.
+This project demonstrates the full workflow of an E-commerce Digital Marketing Executive in Bangladesh:
+
+- Business strategy and planning
+- Product research and pricing
+- Customer personas and competitor analysis
+- Content calendar and copywriting
+- Canva creative design
+- Meta Business Suite and Meta Ads Manager planning
+- Audience targeting and A/B testing
+- Facebook Pixel and GA4 measurement
+- Dataset creation and Google Sheets analysis
+- Looker Studio dashboard
+- Weekly and monthly reporting
+- Seasonal campaigns (11.11, Eid, Black Friday)
+- Google Ads and SEO fundamentals
+- Influencer and TikTok marketing
+- Portfolio presentation and interview preparation
+
+Built over 30 days, one day at a time.
+
+---
+
+## Business Problem
+
+Dhaka Accessories is a fictional B2C fashion accessories brand in Dhaka selling jewelry, bags, and hair accessories. The challenge:
+
+- Brand new, limited monthly budget (15,000 BDT)
+- Cash on delivery dominates (86.8% of Bangladeshi online shoppers)
+- Fashion is the #1 online category in Bangladesh (70.3%)
+- Dhaka has the highest online shopping participation (21.3%)
+- Target demographic: 25–34 age group (24.7% of shoppers)
+
+*Source: BBS 2024-25 public data.*
+
+---
+
+## Objectives
+
+1. Build a complete marketing strategy for a small B2C brand
+2. Practice Meta Ads campaign structure and audience planning
+3. Build a measurement plan using Meta Pixel and GA4
+4. Create a realistic dataset and analyze it
+5. Build a recruiter-ready dashboard
+6. Write performance reports and business recommendations
+7. Present the project as a portfolio
+
+---
+
+## Folder Structure
+![alt text](image.png)
